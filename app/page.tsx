@@ -1,8 +1,8 @@
 /*
  * @Author: hillary 781915596@qq.com
  * @Date: 2024-04-27 22:48:25
- * @LastEditTime: 2024-04-27 23:05:46
- * @FilePath: \nextjs-dashboard\app\page.tsx
+ * @LastEditTime: 2024-04-29 22:58:25
+ * @FilePath: \vueBlog\app\page.tsx
  * @Description: 
  * Tag：
  */
@@ -54,6 +54,7 @@ export default function Page() {
             width={560}
             height={620}
             className="block md:hidden"
+            alt=""
             />
         </div>
       </div>
